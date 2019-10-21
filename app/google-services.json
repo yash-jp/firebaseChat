@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "481014533207",
+    "firebase_url": "https://fir-first-2186b.firebaseio.com",
+    "project_id": "fir-first-2186b",
+    "storage_bucket": "fir-first-2186b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481014533207:android:08fc01108172c31d",
+        "android_client_info": {
+          "package_name": "com.example.brevity.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481014533207-unu4ic5r8kh6f72ptj4eic686m40kl6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyh_Ms54g1CVlzfIVJBadYW5n2qyID1bA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481014533207:android:bac8a521988b2792",
+        "android_client_info": {
+          "package_name": "com.example.brevity.firebasechatroomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481014533207-unu4ic5r8kh6f72ptj4eic686m40kl6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyh_Ms54g1CVlzfIVJBadYW5n2qyID1bA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481014533207:android:3cd861d5f2aeef74",
+        "android_client_info": {
+          "package_name": "com.example.brevity.firebasefirstdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481014533207-unu4ic5r8kh6f72ptj4eic686m40kl6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyh_Ms54g1CVlzfIVJBadYW5n2qyID1bA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
